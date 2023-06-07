@@ -1,0 +1,1 @@
+conn_string = 'Driver={ODBC Driver 18 for SQL Server};Server=tcp:bd-monitoramento.database.windows.net,1433;Database=bd-monitoramento;Uid=bruno.oliveira@bandtec.com.br@bd-monitoramento;Pwd={pswd};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;'
